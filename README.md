@@ -1,11 +1,19 @@
 # Conversation_model
 
 ## Colab
+Download Colab and below Model pt file.<br>
+Make directory in google drive and Save these files in that directory.<br>
+Then, Set the path as your directory path in two ipynb files and execute.<br>
+<br>
+
 <strong>conversation_classifier.ipynb</strong> <br>
 We trained and tested the phone scam detection model using KoBERT and FSS phone scam dataset.
 
 <strong>Inference_Server.ipynb</strong> <br>
 We implemented api server that detects phone scam for a given sentence and returns the result to the main server.
+
+<strong>conversation_data_set.xlsx</strong> <br>
+We gathered and pre-processed positive and negative phone (scam) data.
 
 ## Module
 
