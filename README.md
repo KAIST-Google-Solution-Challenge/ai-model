@@ -3,8 +3,8 @@
 ## Colab
 Download Colab and below Model pt file.<br>
 Make directory in google drive and Save these files in that directory.<br>
-Then, Set the path as your directory path in each ipynb files <br>
-("conversation_classifier.ipynb" and "Inference_Server.ipynb") and run codes.<br>
+Then, Set the path as your directory path in each ipynb files("conversation_classifier.ipynb" and "Inference_Server.ipynb")<br> 
+and run codes.<br>
 <br>
 
 <strong>conversation_classifier.ipynb</strong> <br>
