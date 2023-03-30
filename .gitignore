@@ -1,5 +1,0 @@
-.cache/
-.venv/
-__pycache__/
-
-conversation_model.pt
